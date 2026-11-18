@@ -1,0 +1,6 @@
+{
+  "name": "Đồ thêu Thanh Hà",
+  "description": "Website thương mại điện tử đồ thêu tay thủ công truyền thống kết hợp hiện đại của thương hiệu Đồ thêu Thanh Hà, tích hợp AI phân loại sản phẩm và tư vấn khách hàng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
